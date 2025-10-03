@@ -7,14 +7,15 @@ Netflix Data Analysis Using SQL and Power BI
    - Identifying top performing genre and director
    - Build interactive dashboard using Power BI
 ## Tools Used
--Postgresql
--Power BI
+- Postgresql
+- Power BI
 ## Dataset Used
 Dataset used in analysis: [Dataset](netflix1.csv)
 ## Key Insights
 -Total content added : 8787
    - Movies added: 6124
    - TV Shows added: 2663
+- Total Countries: 86
 - Top Genre: Dramas, International Movies
 - Director with most contribution: Rajiv Chilaka 
 - Most popular rating : TV-MA
